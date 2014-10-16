@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bic:home|Door43 (bic)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bic|d43-bic repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bic/archive/master.zip|d43-bic.zip]]
+
+**Recent Changes**
+{{changes>ns = bic}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bic|Ethnologue data]]
+
